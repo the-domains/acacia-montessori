@@ -1,6 +1,6 @@
 name: Acacia Montessori
 favicon: null
-layout_spectrum: 0.1842801736202091
+layout_spectrum: 0.52816
 typography_spectrum: 0.08353569358587265
 title: Quality Childcare
 cta:
@@ -22,7 +22,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.3331459572073072
+  brandStrength: 0.25
   lightness: 0.5844632824882865
   saturation: 0.8829082744196057
   rhythmicContrast: 0.4687121300958097
